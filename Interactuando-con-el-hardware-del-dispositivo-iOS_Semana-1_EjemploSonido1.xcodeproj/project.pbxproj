@@ -14,6 +14,7 @@
 		94BBB9CC1EA7401000E2CE87 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94BBB9CA1EA7401000E2CE87 /* LaunchScreen.storyboard */; };
 		94BBB9D71EA7401000E2CE87 /* Interactuando_con_el_hardware_del_dispositivo_iOS_Semana_1_EjemploSonido1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BBB9D61EA7401000E2CE87 /* Interactuando_con_el_hardware_del_dispositivo_iOS_Semana_1_EjemploSonido1Tests.swift */; };
 		94BBB9E21EA7401000E2CE87 /* Interactuando_con_el_hardware_del_dispositivo_iOS_Semana_1_EjemploSonido1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BBB9E11EA7401000E2CE87 /* Interactuando_con_el_hardware_del_dispositivo_iOS_Semana_1_EjemploSonido1UITests.swift */; };
+		94BBB9F01EA741A400E2CE87 /* Submarine.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 94BBB9EF1EA741A400E2CE87 /* Submarine.aiff */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		94BBB9DD1EA7401000E2CE87 /* Interactuando-con-el-hardware-del-dispositivo-iOS_Semana-1_EjemploSonido1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Interactuando-con-el-hardware-del-dispositivo-iOS_Semana-1_EjemploSonido1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		94BBB9E11EA7401000E2CE87 /* Interactuando_con_el_hardware_del_dispositivo_iOS_Semana_1_EjemploSonido1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Interactuando_con_el_hardware_del_dispositivo_iOS_Semana_1_EjemploSonido1UITests.swift; sourceTree = "<group>"; };
 		94BBB9E31EA7401000E2CE87 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		94BBB9EF1EA741A400E2CE87 /* Submarine.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = Submarine.aiff; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		94BBB9C01EA7401000E2CE87 /* Interactuando-con-el-hardware-del-dispositivo-iOS_Semana-1_EjemploSonido1 */ = {
 			isa = PBXGroup;
 			children = (
+				94BBB9EF1EA741A400E2CE87 /* Submarine.aiff */,
 				94BBB9C11EA7401000E2CE87 /* AppDelegate.swift */,
 				94BBB9C31EA7401000E2CE87 /* ViewController.swift */,
 				94BBB9C51EA7401000E2CE87 /* Main.storyboard */,
@@ -235,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94BBB9F01EA741A400E2CE87 /* Submarine.aiff in Resources */,
 				94BBB9CC1EA7401000E2CE87 /* LaunchScreen.storyboard in Resources */,
 				94BBB9C91EA7401000E2CE87 /* Assets.xcassets in Resources */,
 				94BBB9C71EA7401000E2CE87 /* Main.storyboard in Resources */,
